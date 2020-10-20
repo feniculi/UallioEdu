@@ -1,19 +1,41 @@
 # Setup UallioEdu
--> Scaricata immagine Ubuntu Mate 64 bit per Raspberry https://ubuntu-mate.org/download/
+-> Scaricata immagine Ubuntu Mate 32 bit per Raspberry https://ubuntu-mate.org/download/
 -> Copiala su SD con il programma https://www.raspberrypi.org/downloads/
+
 login: pi
 password:raspberry
-collega ad internet network options
 
-setup tastiera
-localization option italian
-
-segui questo link:
-https://makingstuffwork.net/technology/lightweight-desktop-raspberry-pi-with-xfce4/
 
 sudo apt update
 sudo apt upgrade -y
 sudo apt dist-upgrade -y
+
+sudo apt install python3-pip
+sudo pip3 install tts
+sudo pip3 install gtts
+sudo pip3 install playsound
+sudo apt-get install python-pygame
+sudo pip3 install speechrecognition
+sudo pip3 install azure-cognitiveservices-vision-face
+sudo apt-get install portaudio19-dev
+sudo pip3 install PyAudio
+sudo pip3 install telepot
+sudo apt-get install flac
+sudo apt-get install python3-rpi.gpio
+
+
+sudo apt-get remove openssh-server
+sudo apt-get install openssh-server
+# I rebooted system after install
+sudo systemctl enable ssh
+
+
+sudo apt-get instal geany
+sudo pip3 install pygame
+
+segui questo link:
+https://makingstuffwork.net/technology/lightweight-desktop-raspberry-pi-with-xfce4/
+
 sudo reboot
 
 sudo apt install xfce4 
@@ -37,20 +59,6 @@ sudo apt-get install wicd
 
 //librerie per il programma
 
-sudo apt install python3-pip
-sudo pip3 install pygame
-sudo pip3 install tts
-sudo pip3 install gtts
-sudo pip3 install playsound
-sudo apt-get install python-pygame
-sudo pip3 install speechrecognition
-sudo pip3 install azure-cognitiveservices-vision-face
-sudo apt-get install portaudio19-dev
-sudo pip3 install PyAudio
-sudo pip3 install telepot
-sudo apt-get install flac
-sudo apt-get instal geany
-sudo apt-get install python-rpi.gpio
 
 ? sudo apt-get install libsdl-ttf2.0-0
 
