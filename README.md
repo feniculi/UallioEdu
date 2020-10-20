@@ -28,10 +28,16 @@ sudo apt-get remove openssh-server
 sudo apt-get install openssh-server
 # I rebooted system after install
 sudo systemctl enable ssh
+sudo pip3 install pygame
+
+sudo nano /etc/rc.local
+
+cd /home/pi/Scrivania/Uallio_learning/
+python3 main_learning.py &
+python3 ualliobot_learning.py &
 
 
 sudo apt-get instal geany
-sudo pip3 install pygame
 
 segui questo link:
 https://makingstuffwork.net/technology/lightweight-desktop-raspberry-pi-with-xfce4/
@@ -72,12 +78,6 @@ Crea una rete di base alla quale si collega sempre il wifi
 
 per far riavviare il sistema esegui il comando
 
-sudo nano /etc/rc.local
-
-
-cd /home/pi/Desktop/raspberry/
-python3 main_paolo.py &
-python3 uallio_bot_paolo.py &
 
 Testa telegram per vedere se funzione
 sudo pkill python
