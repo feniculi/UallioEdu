@@ -1,0 +1,1300 @@
+{
+    "new_action": [
+        {
+            "command": [
+                "Agitato"
+            ],
+            "action": [
+                "Agitato non è una bella parola potrebbe essere sostituita con non tranquillo oppure non rilassato. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Annoiato"
+            ],
+            "action": [
+                "Annoiato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Casino"
+            ],
+            "action": [
+                "Casino non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Complicato"
+            ],
+            "action": [
+                "Complicato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Crisi"
+            ],
+            "action": [
+                "Crisi non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Difficile"
+            ],
+            "action": [
+                "Difficile non è una bella parola potrebbe essere sostituita con NON facile. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Difficoltà"
+            ],
+            "action": [
+                "Difficoltà non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Fermo"
+            ],
+            "action": [
+                "Fermo non è una bella parola potrebbe essere sostituita con non dinamico. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Grasso"
+            ],
+            "action": [
+                "Grasso non è una bella parola potrebbe essere sostituita con NON magro. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Guaio"
+            ],
+            "action": [
+                "Guaio non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Immobile"
+            ],
+            "action": [
+                "Immobile non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Incasinato"
+            ],
+            "action": [
+                "Incasinato non è una bella parola potrebbe essere sostituita con non libero, non disponibile"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Ingabbiato"
+            ],
+            "action": [
+                "Ingabbiato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Legato"
+            ],
+            "action": [
+                "Legato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Nervoso"
+            ],
+            "action": [
+                "Nervoso non è una bella parola potrebbe essere sostituita con NON calmo. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Noia"
+            ],
+            "action": [
+                "Noia non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Pesante"
+            ],
+            "action": [
+                "Pesante non è una bella parola potrebbe essere sostituita con NON leggero. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Peso"
+            ],
+            "action": [
+                "Peso non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Problema"
+            ],
+            "action": [
+                "Problema non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Rallentato"
+            ],
+            "action": [
+                "Rallentato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Rotto"
+            ],
+            "action": [
+                "Rotto non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Rottura"
+            ],
+            "action": [
+                "Rottura non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Scoppiare"
+            ],
+            "action": [
+                "Scoppiare non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Scoppiato"
+            ],
+            "action": [
+                "Scoppiato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Scoppio"
+            ],
+            "action": [
+                "Scoppio non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Stanco"
+            ],
+            "action": [
+                "Stanco non è una bella parola potrebbe essere sostituita con NON forte,"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Statico"
+            ],
+            "action": [
+                "Statico non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Stress"
+            ],
+            "action": [
+                "Stress non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Stressante"
+            ],
+            "action": [
+                "Stressante non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Stressato"
+            ],
+            "action": [
+                "Stressato non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Stufo"
+            ],
+            "action": [
+                "Stufo non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Triste"
+            ],
+            "action": [
+                "Triste non è una bella parola potrebbe essere sostituita con NON felice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Gratis"
+            ],
+            "action": [
+                "Gratis non è una bella parola potrebbe essere sostituita con. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Azione"
+            ],
+            "action": [
+                "Azione questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Bello"
+            ],
+            "action": [
+                "Bello questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Ampio Respiro"
+            ],
+            "action": [
+                "Ampio Respiro questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Libero"
+            ],
+            "action": [
+                "Libero questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Libertà"
+            ],
+            "action": [
+                "Libertà questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Felice"
+            ],
+            "action": [
+                "Felice questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Gioia"
+            ],
+            "action": [
+                "Gioia questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Gioioso"
+            ],
+            "action": [
+                "Gioioso questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Agile"
+            ],
+            "action": [
+                "Agile questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Affascinante"
+            ],
+            "action": [
+                "Affascinante questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Veloce"
+            ],
+            "action": [
+                "Veloce questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Pulito"
+            ],
+            "action": [
+                "Pulito questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Limpido"
+            ],
+            "action": [
+                "Limpido questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Luminoso"
+            ],
+            "action": [
+                "Luminoso questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Chiaro"
+            ],
+            "action": [
+                "Chiaro questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Armonioso"
+            ],
+            "action": [
+                "Armonioso questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Buono"
+            ],
+            "action": [
+                "Buono questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "A braccia aperte"
+            ],
+            "action": [
+                "A braccia aperte questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Flessibile"
+            ],
+            "action": [
+                "Flessibile questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Focus"
+            ],
+            "action": [
+                "Focus questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Leggero"
+            ],
+            "action": [
+                "Leggero questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Contento"
+            ],
+            "action": [
+                "Contento questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Interessante"
+            ],
+            "action": [
+                "Interessante questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Risolvibile"
+            ],
+            "action": [
+                "Risolvibile questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Quesito"
+            ],
+            "action": [
+                "Quesito questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Ricco"
+            ],
+            "action": [
+                "Ricco questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Arricchire"
+            ],
+            "action": [
+                "Arricchire questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Migliorato"
+            ],
+            "action": [
+                "Migliorato questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Curioso"
+            ],
+            "action": [
+                "Curioso questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Dinamico. "
+            ],
+            "action": [
+                "Dinamico  questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Attivo"
+            ],
+            "action": [
+                "Attivo questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Regalo"
+            ],
+            "action": [
+                "Regalo questa si che è una bella parola. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "scusa"
+            ],
+            "action": [
+                "Perchè hai detto scusa? Hai commesso un errore o stai facendo qualcosa di sbagliato? Stai disturbando? Se lo usi troppo spesso concedi potere agli altri e abbassi il livello di sicurezza in te stesso. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "niente",
+                "nulla"
+            ],
+            "action": [
+                "Quando dici niente o nulla, smorzi drasticamente l'efficacia di quello che dici. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Se tutto va bene"
+            ],
+            "action": [
+                "Se tutto va bene? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "toccando ferro"
+            ],
+            "action": [
+                "toccando ferro? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Porta male"
+            ],
+            "action": [
+                "Porta male? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Aspetto a parlare per scaramanzia"
+            ],
+            "action": [
+                "Aspetto a parlare per scaramanzia? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Speriamo"
+            ],
+            "action": [
+                "Speriamo? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Non sono bravo"
+            ],
+            "action": [
+                "Non sono bravo? Lo sai questa è scaramanzia o modestia. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Sinceramente"
+            ],
+            "action": [
+                "L'espressione Sinceramente Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Davvero"
+            ],
+            "action": [
+                "L'espressione Davvero Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Onestamente"
+            ],
+            "action": [
+                "L'espressione Onestamente Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Francamente"
+            ],
+            "action": [
+                "L'espressione Francamente Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "A essere sincero"
+            ],
+            "action": [
+                "L'espressione A essere sincero Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Se devo dirtela tutta"
+            ],
+            "action": [
+                "L'espressione Se devo dirtela tutta Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Se devo essere sincero"
+            ],
+            "action": [
+                "L'espressione Se devo essere sincero Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Non sto scherzando"
+            ],
+            "action": [
+                "L'espressione Non sto scherzando Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Non ti sto prendendo in giro"
+            ],
+            "action": [
+                "L'espressione Non ti sto prendendo in giro Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Se devo dirti la verità",
+                "A dir la verità"
+            ],
+            "action": [
+                "L'espressione Se devo dirti la verità Abbassa il livello della tua voce interiore e ti fa apparire supplice. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Mi hanno detto che"
+            ],
+            "action": [
+                "L'espressione Mi hanno detto che è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Ho letto che"
+            ],
+            "action": [
+                "L'espressione Ho letto che è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "I miei amici credono che"
+            ],
+            "action": [
+                "L'espressione I miei amici credono che è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Sono tempi difficili"
+            ],
+            "action": [
+                "L'espressione Sono tempi difficili è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "La fuori è dura"
+            ],
+            "action": [
+                "L'espressione La fuori è dura è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "C'è la crisi"
+            ],
+            "action": [
+                "L'espressione C'è la crisi è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Le persone non si muovono"
+            ],
+            "action": [
+                "L'espressione Le persone non si muovono è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Le cose non cambiano"
+            ],
+            "action": [
+                "L'espressione Le cose non cambiano è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Le persone non cambiano"
+            ],
+            "action": [
+                "L'espressione Le persone non cambiano è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "La vita è sempre quella"
+            ],
+            "action": [
+                "L'espressione La vita è sempre quella è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Sono sempre gli stessi quelli che vanno avanti"
+            ],
+            "action": [
+                "L'espressione Sono sempre gli stessi quelli che vanno avanti è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Sempre la stessa storia"
+            ],
+            "action": [
+                "L'espressione Sempre la stessa storia è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Alla fine tutto resta uguale"
+            ],
+            "action": [
+                "L'espressione Alla fine tutto resta uguale è un indice referenziale, la verità è che le cose non cambieranno mai se tu non le fai cambiare. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Se fossi in te"
+            ],
+            "action": [
+                "L'espressione Se fossi in te non ti mette nella posizione del tuo interlocutore, ognuno è fatto a modo suo. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Al tuo posto",
+                "al posto tuo"
+            ],
+            "action": [
+                "L'espressione Al tuo posto non ti mette nella posizione del tuo interlocutore, ognuno è fatto a modo suo. "
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "robot"
+            ],
+            "action": [
+                "Sei sicuro di aver pronunciato la parola robot correttamente?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "Si","sì"
+            ],
+            "action": [
+                "Si, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "nuovo",
+                "novità"
+            ],
+            "action": [
+                "NUOVO o NOVITÀ, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "sorpresa",
+                "sorprendente"
+            ],
+            "action": [
+                "SORPRESA/SORPRENDENTE, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "MAGICO"
+            ],
+            "action": [
+                "MAGICO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "REGALO"
+            ],
+            "action": [
+                "REGALO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "SCOPERTA"
+            ],
+            "action": [
+                "SCOPERTA, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "PASSIONE"
+            ],
+            "action": [
+                "PASSIONE, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "FACILE"
+            ],
+            "action": [
+                "FACILE, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "RISPARMIO"
+            ],
+            "action": [
+                "RISPARMIO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "MIGLIORATO"
+            ],
+            "action": [
+                "MIGLIORATO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "FANTASTICO", 
+                "STREPITOSO",
+                "AFFASCINANTE",
+                "SBALORDITIVO",
+                "STRABILIANTE"
+            ],
+            "action": [
+                "FANTASTICO, STREPITOSO, AFFASCINANTE, SBALORDITIVO, STRABILIANTEm sono delle ottime espressionim sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "RISULTATO"
+            ],
+            "action": [
+                "RISULTATO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "più"
+            ],
+            "action": [
+                "più, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "LIBERO"
+            ],
+            "action": [
+                "LIBERO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "POTENTE"
+            ],
+            "action": [
+                "POTENTE, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "VANTAGGIO"
+            ],
+            "action": [
+                "VANTAGGIO, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "SPECIALE"
+            ],
+            "action": [
+                "SPECIALE, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        },
+        {
+            "command": [
+                "TU"
+            ],
+            "action": [
+                "TU, questa è un'ottima espressione sai che puoi sfruttarla ancora di più?"
+            ],
+            "taught_by": [
+                "creatore"
+            ]
+        }
+    ]
+}
