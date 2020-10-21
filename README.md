@@ -22,20 +22,36 @@ sudo pip3 install PyAudio
 sudo pip3 install telepot
 sudo apt-get install flac
 sudo apt-get install python3-rpi.gpio
+sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev
+
+sudo pip3 install pygame
 
 
 sudo apt-get remove openssh-server
 sudo apt-get install openssh-server
 # I rebooted system after install
 sudo systemctl enable ssh
-sudo pip3 install pygame
+
+-----------------------------------
+
+
 
 sudo nano /etc/rc.local
-
+#copia e incolla il seguente testo
+#-------------------------------
+#!/bin/sh -e
 cd /home/pi/Scrivania/Uallio_learning/
-python3 main_learning.py &
+sudo python3 main_learning.py &
 python3 ualliobot_learning.py &
+exit 0
+#------------------------
 
+#poi esegui
+sudo chmod +x /etc/rc.local
+sudo systemctl enable rc-local
+sudo systemctl start rc-local.service
+sudo systemctl status rc-local.service
+--------------------------------------------------------
 
 sudo apt-get instal geany
 
