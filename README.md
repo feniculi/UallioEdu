@@ -5,7 +5,7 @@
 login: pi
 password:raspberry
 
-
+```
 sudo apt update
 sudo apt upgrade -y
 sudo apt dist-upgrade -y
@@ -26,11 +26,7 @@ sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-t
 
 sudo pip3 install pygame
 
-
-sudo apt-get remove openssh-server
-sudo apt-get install openssh-server
-# I rebooted system after install
-sudo systemctl enable ssh
+```
 
 -----------------------------------
 
