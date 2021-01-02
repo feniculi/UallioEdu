@@ -28,10 +28,10 @@ sudo pip3 install pygame
 
 ```
 
------------------------------------
+per abilitare l'avvio automatico:
 
 
-
+```
 sudo nano /etc/rc.local
 #copia e incolla il seguente testo
 #-------------------------------
@@ -48,7 +48,8 @@ sudo systemctl enable rc-local
 sudo systemctl start rc-local.service
 sudo systemctl status rc-local.service
 --------------------------------------------------------
-
+```
+```
 sudo apt-get instal geany
 
 segui questo link:
@@ -76,15 +77,14 @@ Rinomina la raspberry come il proprietario
 sudo apt-get install wicd
 
 //librerie per il programma
-
+```
 
 ? sudo apt-get install libsdl-ttf2.0-0
 
 Abilita SSH e VNC Server
 imposta account su VNC SErver
-con mail:cesare.pec@gmail.com
-Feniculi2019Cesare
-
+con mail:tuamail@gmail.com
+pass: tuapass
 
 Crea una rete di base alla quale si collega sempre il wifi
 
